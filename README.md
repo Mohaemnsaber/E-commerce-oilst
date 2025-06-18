@@ -43,6 +43,7 @@ The data is stored in a SQLite database (`olist.sqlite`) containing 11 interconn
 1. Clone the repository.
 2. Make sure the `olist.sqlite` database is placed in the correct path.
 3. Open and run the `Olist_Analysis.ipynb` notebook in Jupyter.
+4. Database's link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database/data?select=olist.sqlite
 
 ## 📌 How to Run
 
