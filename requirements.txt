@@ -1,0 +1,10 @@
+
+---
+
+### ✅ `requirements.txt`
+
+```txt
+pandas
+matplotlib
+seaborn
+jupyter
